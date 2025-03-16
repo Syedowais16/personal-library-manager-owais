@@ -1,0 +1,16 @@
+[
+    {
+        "title": "harry potters",
+        "author": "jk rowlings",
+        "year": 2015,
+        "genre": "drama , thriller",
+        "read": true
+    },
+    {
+        "title": "abcd",
+        "author": "xyz",
+        "year": 2025,
+        "genre": "suspense",
+        "read": false
+    }
+]
